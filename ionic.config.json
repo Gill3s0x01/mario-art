@@ -1,0 +1,7 @@
+{
+  "name": "MarioUX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
