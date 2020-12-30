@@ -9,12 +9,7 @@ import { FeedPageRoutingModule } from './feed-routing.module';
 import { FeedPage } from './feed.page';
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    FeedPageRoutingModule
-  ],
-  declarations: [FeedPage]
+  imports: [CommonModule, FormsModule, IonicModule, FeedPageRoutingModule],
+  declarations: [FeedPage],
 })
 export class FeedPageModule {}
