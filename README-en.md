@@ -83,9 +83,9 @@ The application layout is available on Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Home" title="#Home" src="./src/assets/Home.jpeg" width="200px">
+  <img alt="Home" title="#Home" src="./src/assets/img/Home.jpeg" width="200px">
 
-  <img alt="Feed" title="#feed" src="./src/assets/feed.jpeg" width="200px">
+  <img alt="Feed" title="#feed" src="./src/assets/img/feed.jpeg" width="200px">
 </p>
 
 ---
@@ -163,7 +163,7 @@ $ npm run start or yarn start
 
 The following tools were used in the construction of the project:
 
-#### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Website** ([Ionic](https://ionic.com/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Ionic](https://github.com/ionic-team/ionic-framework)**
 - **[Ion Icons.github](https://github.com/ionic-team/ionicons)**

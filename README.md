@@ -83,9 +83,9 @@ O layout do aplicativo está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Home" title="#Home" src="./src/assets/Home.jpeg" width="200px">
+  <img alt="Home" title="#Home" src="./src/assets/img/Home.jpeg" width="200px">
 
-  <img alt="Feed" title="#feed" src="./src/assets/feed.jpeg" width="200px">
+  <img alt="Feed" title="#feed" src="./src/assets/img/feed.jpeg" width="200px">
 </p>
 
 ---
@@ -163,7 +163,7 @@ $ npm run start ou yarn start
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-#### ** Site ** ([React] (https://reactjs.org/) + [TypeScript] (https://www.typescriptlang.org/))
+#### ** Site ** ([Ionic] (https://ionic.com/) + [TypeScript] (https://www.typescriptlang.org/))
 
 - ** [Ionic] (https://github.com/ionic-team/ionic-framework) **
 - ** [Ion Icons.github] (https://github.com/ionic-team/ionicons) **
@@ -256,7 +256,7 @@ Você são uma equipe incrível! :)
 
 Este projeto está sob a licença [MIT] (./ LICENSE).
 
-Feito com amor por Lorison Gilles 👋🏽 [Entre em Contato!] (Https://www.linkedin.com/in/Gilles30/)
+Feito com amor por Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/Gilles30/)
 
 ---
 
