@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-   ♻️ <a href="#"> mario-art </a>
+   <a href="#"> mario-art </a>
 </h1>
 
 <h3 align="center">
@@ -208,7 +208,7 @@ _:construction:_
 
 ## Contributors
 
-A big thanks to this group of people who helped me with teaching and knowledge and to my mentor who has made my learning curve almost 90 ° :)
+A big thanks to this group of people who helped me with teaching and knowledge and to my mentor (Wezss) who has made my learning curve almost 90 ° :)
 
 You are an awesome team! :)
 
