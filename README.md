@@ -208,7 +208,7 @@ _:construção:_
 
 ## Colaboradores
 
-Um grande obrigado a este grupo de pessoas que me ajudaram com ensino e conhecimento e ao meu mentor que fez minha curva de aprendizado quase 90 ° :)
+Um grande obrigado a este grupo de pessoas que me ajudaram com ensino e conhecimento e ao meu mentor (Wezss) que fez minha curva de aprendizado quase 90 ° :)
 
 Você são uma equipe incrível! :)
 
