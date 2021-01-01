@@ -256,7 +256,7 @@ You are an awesome team! :)
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/Gilles30/)
+Made with love by Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/lorison-gilles/)
 
 ---
 

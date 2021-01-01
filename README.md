@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-   ♻️ <a href="#"> mario-art </a>
+   <a href="#"> Mario-Art </a>
 </h1>
 
 <h3 align="center">
@@ -256,7 +256,7 @@ Você são uma equipe incrível! :)
 
 Este projeto está sob a licença [MIT] (./ LICENSE).
 
-Feito com amor por Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/Gilles30/)
+Feito com amor por Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/lorison-gilles/)
 
 ---
 
