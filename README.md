@@ -211,7 +211,7 @@ _:construction:_
 
 Um grande obrigado a este grupo de pessoas que me ajudaram com ensino e conhecimento e ao meu mentor (Wezss) que fez minha curva de aprendizado quase 90 ° :)
 
-Você são uma equipe incrível! :)
+Vocês são uma equipe incrível! :)
 
 <table>
   <tr>
