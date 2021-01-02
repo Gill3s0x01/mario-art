@@ -163,48 +163,49 @@ $ npm run start ou yarn start
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-#### ** Site ** ([Ionic] (https://ionic.com/) + [TypeScript] (https://www.typescriptlang.org/))
+### **Website** ([Ionic](https://ionic.com/) + [TypeScript](https://www.typescriptlang.org/))
 
-- ** [Ionic] (https://github.com/ionic-team/ionic-framework) **
-- ** [Ion Icons.github] (https://github.com/ionic-team/ionicons) **
-- ** [Angularjs] (https://angularjs.org/) **
-- ** [Ícones de íons] (https://ionicons.com/) **
+- **[Ionic](https://github.com/ionic-team/ionic-framework)**
+- **[Ion Icons.github](https://github.com/ionic-team/ionicons)**
+- **[Angularjs](https://angularjs.org/)**
+- **[Ion Icons](https://ionicons.com/)**
 
-> Veja o arquivo [package.json] (https://github.com/Gilles30/mario-art/blob/master/package.json)
+> See the file [package.json](https://github.com/Gilles30/mario-art/blob/master/package.json)
 
-_:construção:_
+_:construction:_
 
-#### [] (https://github.com/Gilles30/mario-art#server-nodejs--typescript) ** Servidor ** ([NodeJS] (https://nodejs.org/en/) + [TypeScript] (https://www.typescriptlang.org/))
+#### [](https://github.com/Gilles30/mario-art#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
-- ** [Express] (https://expressjs.com/) **
-- ** [CORS] (https://expressjs.com/en/resources/middleware/cors.html) **
-- ** [KnexJS] (http://knexjs.org/) **
-- ** [SQLite] (https://github.com/mapbox/node-sqlite3) **
-- ** [ts-node] (https://github.com/TypeStrong/ts-node) **
-- ** [dotENV] (https://github.com/motdotla/dotenv) **
-- ** [Multer] (https://github.com/expressjs/multer) **
-- ** [Comemore] (https://github.com/arb/celebrate) **
-- ** [Joi] (https://github.com/hapijs/joi) **
+- **[Express](https://expressjs.com/)**
+- **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
+- **[KnexJS](http://knexjs.org/)**
+- **[SQLite](https://github.com/mapbox/node-sqlite3)**
+- **[ts-node](https://github.com/TypeStrong/ts-node)**
+- **[dotENV](https://github.com/motdotla/dotenv)**
+- **[Multer](https://github.com/expressjs/multer)**
+- **[Celebrate](https://github.com/arb/celebrate)**
+- **[Joi](https://github.com/hapijs/joi)**
 
-> Veja o arquivo [package.json] (https://github.com/Gilles30/mario-art/blob/master/server/package.json)
+> See the file [package.json](https://github.com/Gilles30/mario-art/blob/master/server/package.json)
 
-#### [] (https://github.com/Gilles30/mario-art#mobile-ionic--typescript) ** Mobile ** ([Ionic] (http://www.ionic.com/) + [TypeScript] (https://www.typescriptlang.org/))
+#### [](https://github.com/Gilles30/mario-art#mobile-ionic--typescript)**Mobile** ([Ionic](http://www.ionic.com/) + [TypeScript](https://www.typescriptlang.org/))
 
-- ** [Expo] (https://expo.io/) **
-- ** [Expo Google Fonts] (https://github.com/expo/google-fonts) **
-- ** [Navegação Iônica =] (https://ionic.com/) **
-- ** [Expo Constants] (https://docs.expo.io/versions/latest/sdk/constants/) **
-- ** [Axios] (https://github.com/axios/axios) **
-- ** [Local da Expo] (https://docs.expo.io/versions/latest/sdk/location/) **
-- ** [Expo Mail Composer] (https://docs.expo.io/versions/latest/sdk/mail-composer/) **
+- **[Expo](https://expo.io/)**
+- **[Expo Google Fonts](https://github.com/expo/google-fonts)**
+- **[Ionic Navigation=](https://ionic.com/)**
+- **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
+- **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> Veja o arquivo [package.json] (https://github.com/Gilles30/mario-art/blob/master/mobile/package.json)
+> See the file [package.json](https://github.com/Gilles30/mario-art/blob/master/mobile/package.json)
 
-#### [] (https://github.com/Gilles/mario-art#utilit%C3%A1rios) ** Utilitários **
+#### [](https://github.com/Gilles/mario-art#utilit%C3%A1rios)**Utilitários**
 
-- Protótipo: ** [Figma] (https://www.figma.com/) ** → ** [Protótipo (Mario-art)] (em andamento) **
+- Prototype: **[Figma](https://www.figma.com/)** → **[Protótipo (Mario-art)](in progress)**
 
 ---
+
 
 ## Colaboradores
 
